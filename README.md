@@ -31,11 +31,9 @@ Aquí algunas de las tecnologías que manejo o con las que me gustaría trabajar
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,boot,hibernate,rest,sql,postgresql,mysql,git,github,html,css,js,ts,react,nodejs,linux,docker,jenkins,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,hibernate,rest,sql,postgresql,mysql,git,github,html,css,js,ts,react,nodejs,linux,docker,jenkins,postman&perline=10" />
   </a>
 </p>
-
-*(Puedes ajustar esta lista para poner solo lo que conoces bien o lo que más te interesa.)*
 
 ---
 

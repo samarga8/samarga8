@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 Soy Salva / Salva‑Dev ✨</h1>
+<h1 align="center">Hola 👋 Soy Salva </h1>
 
 <p align="center">
   <a href="https://github.com/samarga8" target="_blank">

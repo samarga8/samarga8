@@ -1,16 +1,91 @@
-## Hi there 👋
+<h1 align="center">Hola 👋 Soy Salva / Salva‑Dev ✨</h1>
 
-<!--
-**samarga8/samarga8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/samarga8" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/salva-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:salmargar@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí 😃
+
+<p align="left">
+💼 Soy un desarrollador **Java junior** de Valencia (España), enfocado en construir aplicaciones con **Spring Boot** modernas y atractivas.  
+Me apasiona trabajar con tecnologías actuales para crear experiencias de usuario fluidas e intuitivas.  
+Estoy aprendiendo, creciendo y siempre buscando nuevos retos para mejorar.  
+📫 Puedes contactarme en: **salmargar@gmail.com**
+</p>
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+Aquí algunas de las tecnologías que manejo o con las que me gustaría trabajar:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,boot,hibernate,rest,sql,postgresql,mysql,git,github,html,css,js,ts,react,nodejs,linux,docker,jenkins,postman&perline=10" />
+  </a>
+</p>
+
+*(Puedes ajustar esta lista para poner solo lo que conoces bien o lo que más te interesa.)*
+
+---
+
+## 🚀 Proyectos destacados
+
+| Proyecto | Descripción | Enlaces |
+|---|---|---|
+| **proyect-microservices** | Microservicios en Java con Spring | [GitHub](https://github.com/samarga8/proyect-microservices) |
+| **portolio-astro** | Mi portafolio personal en Astro | [GitHub](https://github.com/samarga8/portolio-astro) |
+| **proyecto-rural_go** | Proyecto en Go — ejemplo de backend | [GitHub](https://github.com/samarga8/proyecto-rural_go) |
+| **proyecto-sistema-taller-mecanico** | Sistema de gestión para taller mecánico | [GitHub](https://github.com/samarga8/proyecto-sistema-taller-mecanico) |
+
+*(Puedes agregar capturas, enlaces externos, demo en vivo si lo tienes, etc.)*
+
+---
+
+## 📊 GitHub (estadísticas)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samarga8&theme=dark&show_icons=true&count_private=true" alt="estadísticas de GitHub">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarga8&theme=dark&hide_border=false" alt="racha de contribuciones">
+</p>
+
+---
+
+## 🔭 Qué estoy haciendo ahora
+
+- Profundizando en arquitectura de microservicios con Spring Boot y Spring Cloud  
+- Explorando herramientas de DevOps: **Docker**, **CI/CD**, **Kubernetes**  
+- Construyendo proyectos personales completos para practicar diseño y buenas prácticas  
+
+---
+
+## 📚 En el futuro me gustaría aprender…
+
+- Tecnologías de frontend modernas (React, Angular, Vue)  
+- Reactive programming con Spring WebFlux  
+- Cloud (AWS, Azure, GCP)  
+- Mejorar mis habilidades en testing, seguridad y optimización 
+
+---
+
+## 📬 Si quieres contactar…
+
+- LinkedIn: [salva‑dev](https://linkedin.com/in/salva-dev/)  
+- Correo: **salmargar@gmail.com**  
+
+¡Gracias por visitar mi perfil! 👋
+
+---
+
+*(Este README es solo un punto de partida. Puedes agregar animaciones, imágenes, GIFs, secciones adicionales como “Blogs”, “Certificaciones”, “Reconocimientos”… lo que quieras para mostrar tu personalidad.)*

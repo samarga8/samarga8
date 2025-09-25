@@ -42,7 +42,6 @@ Aquí algunas de las tecnologías que manejo o con las que me gustaría trabajar
 | Proyecto | Descripción | Enlaces |
 |---|---|---|
 | **proyect-microservices** | Microservicios en Java con Spring | [GitHub](https://github.com/samarga8/proyect-microservices) |
-| **portolio-astro** | Mi portafolio personal en Astro | [GitHub](https://github.com/samarga8/portolio-astro) |
 | **proyecto-rural_go** | Proyecto en Go — ejemplo de backend | [GitHub](https://github.com/samarga8/proyecto-rural_go) |
 | **proyecto-sistema-taller-mecanico** | Sistema de gestión para taller mecánico | [GitHub](https://github.com/samarga8/proyecto-sistema-taller-mecanico) |
 

@@ -45,8 +45,6 @@ Aquí algunas de las tecnologías que manejo o con las que me gustaría trabajar
 | **proyecto-rural_go** | Proyecto en Go — ejemplo de backend | [GitHub](https://github.com/samarga8/proyecto-rural_go) |
 | **proyecto-sistema-taller-mecanico** | Sistema de gestión para taller mecánico | [GitHub](https://github.com/samarga8/proyecto-sistema-taller-mecanico) |
 
-*(Puedes agregar capturas, enlaces externos, demo en vivo si lo tienes, etc.)*
-
 ---
 
 ## 📊 GitHub (estadísticas)
@@ -84,5 +82,3 @@ Aquí algunas de las tecnologías que manejo o con las que me gustaría trabajar
 ¡Gracias por visitar mi perfil! 👋
 
 ---
-
-*(Este README es solo un punto de partida. Puedes agregar animaciones, imágenes, GIFs, secciones adicionales como “Blogs”, “Certificaciones”, “Reconocimientos”… lo que quieras para mostrar tu personalidad.)*

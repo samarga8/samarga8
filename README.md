@@ -51,8 +51,6 @@ Aquí algunas de las tecnologías que manejo o con las que me gustaría trabajar
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samarga8&theme=dark&show_icons=true&count_private=true" alt="estadísticas de GitHub">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarga8&theme=dark&hide_border=false" alt="racha de contribuciones">
 </p>
 
 ---

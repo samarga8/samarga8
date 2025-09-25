@@ -27,7 +27,7 @@ Estoy aprendiendo, creciendo y siempre buscando nuevos retos para mejorar.
 
 ## 🛠️ Tecnologías y herramientas
 
-Aquí algunas de las tecnologías que manejo o con las que me gustaría trabajar:
+Aquí algunas de las tecnologías que manejo:
 
 <p align="left">
   <a href="https://skillicons.dev">
